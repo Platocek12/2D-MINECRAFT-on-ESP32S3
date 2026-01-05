@@ -16,7 +16,7 @@
 - Bedrock
 - Fixed jumping over blocks
 - The camera also follows the player vertically
-- **bug with leaves on trees**
-- **walking bug**
-- **mining bug**
+- **Bug with leaves on trees**
+- **Walking bug**
+- **Mining bug**
 -------------------------------------------------------------------------
