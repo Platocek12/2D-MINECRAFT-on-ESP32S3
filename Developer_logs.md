@@ -29,4 +29,5 @@
 - Improved bedrock
 - Debug screen (for PC is "F3")
 - Fixed: Bug with leaves on trees
-- 
+- **Bug with coordinates**
+- _Still:_ **Walking bug**, **Mining bug**
