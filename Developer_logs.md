@@ -20,3 +20,13 @@
 - **Walking bug**
 - **Mining bug**
 -------------------------------------------------------------------------
+
+### Version: 0.0.3
+- Gold
+- Lapis
+- Diamond
+- Coal
+- Improved bedrock
+- Debug screen (for PC is "F3")
+- Fixed: Bug with leaves on trees
+- 
