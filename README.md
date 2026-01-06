@@ -14,10 +14,10 @@ _(There are still some bugs, but they are being worked on. I would be happy for 
 
 **ESP32S3:**  https://www.ebay.de/itm/376447694668?chn=ps&_ul=DE&var=645072555269&google_free_listing_action=view_item
 
-**BUTTON:** https://forum.arduino.cc/t/how-to-connect-these/667059
+**BUTTON_1:** https://forum.arduino.cc/t/how-to-connect-these/667059
 **VCC**-5V,  **GND**-GND, **OUT**-17    _(Since ESP32-S3 does not have 5V, I use Arduino nano as a 5V power source)_
 
-**BUTTON:** https://forum.arduino.cc/t/how-to-connect-these/667059
+**BUTTON_2:** https://forum.arduino.cc/t/how-to-connect-these/667059
 **VCC**-5V,  **GND**-GND, **OUT**-87    _(Since ESP32-S3 does not have 5V, I use Arduino nano as a 5V power source)_
 
 **+BONUS:**  https://dev.blues.io/blog/blues-university-first-components-breadboard/
